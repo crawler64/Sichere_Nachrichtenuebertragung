@@ -93,3 +93,5 @@ Sigma = 1;
 f_gauss = 1 / (sqrt(2*pi)*Sigma) * exp(- (x_11).^2 / 2*Sigma^2);
 plot(x_11,f_gauss);
 
+
+
